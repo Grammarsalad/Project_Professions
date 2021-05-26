@@ -1,0 +1,5 @@
+name=Project Professions
+poster=poster.png
+id=Project_Professions
+description=A collection of new and revised professions for Project Zomboid
+require=ProfessionFrameworkB41Patch

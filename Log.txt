@@ -1,0 +1,8 @@
+TO DO 01: Finish and test Laborer
+TO DO 02: Find image for laborer
+TO DO 03: Create Poster
+
+2021-05-21
+
+- Created Homemaker, Tailor
+- Started Laborer
